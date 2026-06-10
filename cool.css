@@ -1,9 +1,14 @@
 .cool-background {
-    background-color: rgb(13, 13, 82);
+    background-color: rgb(32, 16, 41);
 }
 
 .body-background { 
     background-color: rgb(19, 19, 19);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 * {
