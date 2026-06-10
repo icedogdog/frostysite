@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "on the death of virtual spaces"
-date: 2026-09-08
+date: 2026-06-09
 ---
 
 a few years ago, maybe around 2023, i was on a long flight. I don't remember where I was going, or why.
