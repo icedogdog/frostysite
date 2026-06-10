@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "on the fragility of virtual spaces"
+title:  "the fragility of virtual spaces"
 date: 2026-06-09
 ---
 
