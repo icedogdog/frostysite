@@ -1,0 +1,48 @@
+
+body {
+    background-color: #090613;
+    background: radial-gradient(#1b082c, #0a090b);
+    padding: 0 8rem;
+}
+
+p {
+    color: white;
+    font-size: 2rem;
+    font-family: "Times New Roman", serif;
+    text-justify: distribute-all-lines;
+    letter-spacing: .4rem;
+    word-spacing: 1rem;
+    filter:blur(.03em) drop-shadow(2px 2px 2px #836e39);
+}
+
+.indent1 {
+    text-indent: 6rem;
+}
+
+.indent2 {
+    text-indent: 12rem;
+}
+
+.indent3 {
+    text-indent: 18rem;
+}
+
+.indent4 {
+    text-indent: 16rem;
+}
+
+.spacer {
+    margin: 8rem 0;
+}
+
+.spacer2 {
+    margin: 4rem 0;
+}
+
+.spacer3 {
+    margin: 6rem 0;
+}
+
+.smaller {
+    font-size: 1.8rem;
+}
